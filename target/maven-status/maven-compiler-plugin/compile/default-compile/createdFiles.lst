@@ -1,5 +1,4 @@
-com\zeta\Auditable.class
-com\zeta\ExampleConfiguration.class
-com\zeta\EnableExampleConfiguration.class
-com\zeta\MyBean.class
-com\zeta\service\AuditableService.class
+com\zeta\configuration\SharedDataConfig.class
+com\zeta\SharedData.class
+com\zeta\SharedDataInterceptor.class
+com\zeta\configuration\SharedDataInterceptorConfig.class
